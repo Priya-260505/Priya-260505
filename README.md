@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi👋, I'm Priya
 
-<!--
-**Priya-260505/Priya-260505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Learning with Passion | Exploring New Technologies
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hello! I'm Priya, a B.Tech graduate in Artificial Intelligence and Data Science. I'm currently looking for opportunities to learn, grow, and contribute as a Software Developer.**
+---
+
+## 🎓 Education
+
+**B.Tech – Artificial Intelligence and Data Science**
+
+**Graduated in 2026**
+---
+
+
+
+
