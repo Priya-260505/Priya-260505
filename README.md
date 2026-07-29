@@ -30,7 +30,7 @@ A MERN Stack web application for documenting travel experiences and exploring de
 
 **Tech Stack:**
 React.js • Node.js • Express.js • MongoDB
----
+
 
 
 
