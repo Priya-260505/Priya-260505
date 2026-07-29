@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Introduction
 
-**Hello! I'm Priya, a B.Tech graduate in Artificial Intelligence and Data Science. I'm currently looking for opportunities to learn, grow, and contribute as a Software Developer.**
+Hello! I'm Priya, a B.Tech graduate in Artificial Intelligence and Data Science. I'm currently looking for opportunities to learn, grow, and contribute as a Software Developer.
 ---
 
 ## 🎓 Education
