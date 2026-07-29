@@ -31,6 +31,22 @@ A MERN Stack web application for documenting travel experiences and exploring de
 **Tech Stack:**
 React.js • Node.js • Express.js • MongoDB
 
+---
+
+### 🏥 MediSwift – NextGen Hospital Management System
+
+**Description:**
+A healthcare management system that streamlines hospital operations through digital prescriptions, patient management, and medicine inventory.
+
+**Highlights:**
+- 🩺 Digital prescription system for recording patient details, diagnosis, and medicines.
+- 📩 Real-time SMS notifications for billing and payment status using Fast2SMS API.
+- 🔐 Secure role-based authentication for doctors and pharmacists using JWT.
+- 💊 Centralized management of medicine inventory, patient history, and transactions.
+
+**Tech Stack:**
+React.js • Python (Flask) • Flask-CORS • SQLite • JWT Authentication • Fast2SMS API
+
 
 
 
