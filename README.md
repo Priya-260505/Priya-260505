@@ -17,6 +17,20 @@
 
 ## 📂 Projects
 
+### 🌍 Wavers – Travel Journal
+
+**Description:**
+A MERN Stack web application for documenting travel experiences and exploring destinations.
+
+**Highlights:**
+- ✈️ Create and manage travel journals.
+- 📝 Share destination reviews and feedback.
+- 🌍 Explore travel stories from other users.
+- 📱 Responsive and intuitive user interface.
+
+**Tech Stack:**
+React.js • Node.js • Express.js • MongoDB
+
 
 
 
