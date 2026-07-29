@@ -47,6 +47,24 @@ A healthcare management system that streamlines hospital operations through digi
 **Tech Stack:**
 React.js • Python (Flask) • Flask-CORS • SQLite • JWT Authentication • Fast2SMS API
 
+---
+
+### 🧠 Mental Health Support Chatbot
+
+**Description:**
+An NLP-powered chatbot that provides emotional support through empathetic conversations and sentiment analysis.
+
+**Highlights:**
+- 💬 Interactive chatbot for mental wellness support.
+- 🧠 Analyzes user mood and sentiment using NLP.
+- ❤️ Generates empathetic responses based on user input.
+- 🌐 Accessible and user-friendly web application.
+
+**Tech Stack:**
+React.js • Node.js • Express.js • MongoDB • Python (NLTK)
+
+---
+
 
 
 
