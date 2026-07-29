@@ -1,6 +1,6 @@
 # Hi👋, I'm Priya
 
-### 🚀 Learning with Passion | Exploring New Technologies
+🚀 Learning with Passion | Exploring New Technologies
 ---
 
 ## 👩‍💻 Introduction
@@ -10,9 +10,9 @@ Hello! I'm Priya, a B.Tech graduate in Artificial Intelligence and Data Science.
 
 ## 🎓 Education
 
-**B.Tech – Artificial Intelligence and Data Science**
+B.Tech – Artificial Intelligence and Data Science
 
-**Graduated in 2026**
+Graduated in 2026
 ---
 
 
