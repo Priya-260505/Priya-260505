@@ -65,9 +65,23 @@ React.js • Node.js • Express.js • MongoDB • Python (NLTK)
 
 ---
 
+### 🤖 Nova – AI-Powered RAG Chatbot with Personal Knowledge Base
 
+**Description:**
+A full-stack conversational AI chatbot that combines Retrieval-Augmented Generation (RAG) with Google Gemini to deliver context-aware, personalized responses. Users can teach the bot new facts, upload documents/images for instant analysis, and maintain persistent multi-session chat history.
 
+**Highlights:**
+- 🧠 RAG-based knowledge retrieval using MongoDB Atlas Vector Search and Voyage AI embeddings for accurate, context-aware answers.
+- 📎 Multi-format file support — text extraction from PDFs, .txt documents, and image analysis via Gemini Vision API.
+- 🔐 Secure user authentication with email/password-based signup and login.
+- 💬 Persistent conversation history with a sidebar for browsing and resuming past chats across sessions.
+- 🎨 Custom light/dark theme toggle with a fully responsive, elegant chat UI.
+- ⚡ Real-time fact-learning — teach the bot new information directly through natural chat commands ("learn this: ...").
 
+**Tech Stack:**
+React.js (Vite) • Node.js (Express) • MongoDB Atlas • Mongoose • Google Gemini API • Voyage AI (Embeddings) • PDF.js • Render (Deployment)
+
+---
 
 
 
