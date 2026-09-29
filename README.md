@@ -33,6 +33,24 @@ React.js • Node.js • Express.js • MongoDB
 
 ---
 
+### 🩺 MediMagic – Online Doctor Appointment Booking System
+
+**Description:**
+A MERN stack-based web application that allows patients to book doctor appointments, view available time slots, and manage their bookings online.
+
+
+**Highlights:**
+- 📅 Allows patients to book doctor appointments online.
+- 🕐 Displays available doctor time slots for easy scheduling.
+- 📋 Enables users to manage and track their appointments.
+- 🗄️ Uses MongoDB for real-time data storage and management.
+- 🌐 Provides a simple and user-friendly healthcare booking interface.
+
+**Tech Stack:**
+React.js • Node.js • Express.js • MongoDB
+
+---
+
 ### 🏥 MediSwift – NextGen Hospital Management System
 
 **Description:**
