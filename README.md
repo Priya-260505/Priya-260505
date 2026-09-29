@@ -83,6 +83,23 @@ React.js • Node.js • Express.js • MongoDB • Python (NLTK)
 
 ---
 
+### 🧠 BCI-X: Voice of the Mind
+
+**Description:**
+A simulated non-invasive Brain-Computer Interface that uses simulated EEG signals and Machine Learning to translate brain activity into computer interactions.
+
+**Highlights:**
+- 🧠 Simulates multi-channel EEG signals for brain activity analysis.
+- 🤖 Uses Machine Learning to classify intents such as Move, Select, and Draw.
+- 💬 Provides a virtual communication board for phrase selection.
+- 🎨 Enables brain-controlled digital painting through simulated commands.
+- 🔐 Includes simulated biometric authentication and fatigue monitoring.
+
+**Tech Stack:**
+Python • Machine Learning • EEG Signal Processing • Signal Classification
+
+---
+
 ### 🤖 Nova – AI-Powered RAG Chatbot with Personal Knowledge Base
 
 **Description:**
